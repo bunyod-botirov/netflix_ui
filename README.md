@@ -1,16 +1,8 @@
 # netflix_ui
 
-A new Flutter project.
+## UI
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<a href="https://ibb.co/vj4MJdQ"><img src="https://i.ibb.co/3CmP0FM/1.jpg" alt="1" border="0"></a>
+<a href="https://ibb.co/wQWmzQk"><img src="https://i.ibb.co/fNpwxNg/2.jpg" alt="2" border="0"></a>
+<a href="https://ibb.co/zSWRW53"><img src="https://i.ibb.co/wKZWZLn/3.jpg" alt="3" border="0"></a>
+<a href="https://ibb.co/Z66QLBn"><img src="https://i.ibb.co/JRRYBvf/4.jpg" alt="4" border="0"></a>
